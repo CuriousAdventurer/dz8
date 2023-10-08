@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\dz8\dop_zd58\bin\Debug\net7.0\dop_zd58.exe
+C:\Users\User\Desktop\dz8\dop_zd58\bin\Debug\net7.0\dop_zd58.deps.json
+C:\Users\User\Desktop\dz8\dop_zd58\bin\Debug\net7.0\dop_zd58.runtimeconfig.json
+C:\Users\User\Desktop\dz8\dop_zd58\bin\Debug\net7.0\dop_zd58.dll
+C:\Users\User\Desktop\dz8\dop_zd58\bin\Debug\net7.0\dop_zd58.pdb
+C:\Users\User\Desktop\dz8\dop_zd58\obj\Debug\net7.0\dop_zd58.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dz8\dop_zd58\obj\Debug\net7.0\dop_zd58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\dz8\dop_zd58\obj\Debug\net7.0\dop_zd58.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\dz8\dop_zd58\obj\Debug\net7.0\dop_zd58.AssemblyInfo.cs
+C:\Users\User\Desktop\dz8\dop_zd58\obj\Debug\net7.0\dop_zd58.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dz8\dop_zd58\obj\Debug\net7.0\dop_zd58.dll
+C:\Users\User\Desktop\dz8\dop_zd58\obj\Debug\net7.0\refint\dop_zd58.dll
+C:\Users\User\Desktop\dz8\dop_zd58\obj\Debug\net7.0\dop_zd58.pdb
+C:\Users\User\Desktop\dz8\dop_zd58\obj\Debug\net7.0\dop_zd58.genruntimeconfig.cache
+C:\Users\User\Desktop\dz8\dop_zd58\obj\Debug\net7.0\ref\dop_zd58.dll
